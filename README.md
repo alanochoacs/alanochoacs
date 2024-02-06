@@ -1,5 +1,6 @@
 ### Hello! I'm Alan Ochoa
+- 🏙️ From the Chicagoland area
 - 🌱 I’m currently a CS major @ UIC
-- 💬 Ask me about anything C++
+- 🔮 Future software developer
+- 💬 Ask me about anything C++ and gaming
 - 📫 How to reach me: alan.ochoa.cs@gamil.com
-- ⚡ Fun facts: I am passionate about food and gaming
