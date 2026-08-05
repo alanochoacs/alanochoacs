@@ -1,14 +1,19 @@
-### Hello! I'm Alan Ochoa
-- 🏙️ From the Chicagoland area
-- 🌱 I’m currently a CS major @ UIC
-- 🔮 Future software developer
-- 💬 Ask me about anything C++ and gaming
-- 📫 How to reach me: alan.ochoa.cs@gmail.com
+## Alan Ochoa
 
-Hi! My name is Alan Ochoa, and I'm currently studying computer science at UIC as a fifth-year undergraduate student. I work on many personal projects that involve creating useful programs that help me with day-to-day tasks. I also love to code fun games. Coding, for me, is fun when I can challenge myself and think up new ways to solve a problem. Solving those problems is such a great feeling. I've been coding for years, since my first year of high school, where I took many coding classes. In my free time, I find myself gaming and reading. So reach out if you're also interested in video games. I am seeking to learn more efficient coding techniques, so also reach out if you find new ways to improve my projects!
+B.S. Computer Science @ UIC  
+Software Engineer | Chicagoland  
+alan.ochoa.cs@gmail.com
 
-Languages I can code in:
-- C/C++
-- Java
-- Kotlin
-- HTML / CSS / Javascript
+Hello, I am a graduate of UIC with a B.S. in Computer Science. I work on many personal projects that involve creating a variety of programs and exploring different programming languages. I enjoy coding games the most. Coding is the most fun for me when I can finally see the vision I had come to life. I've been coding since my first year of high school, where I took many coding classes. In my free time, I find myself gaming and reading. I am always looking to learn more efficient coding techniques and improve my projects, so please feel free to reach out if you have any suggestions.
+
+### Languages
+- C / C++
+- Java / Kotlin
+- Python
+- JavaScript
+
+### Web
+- HTML / CSS
+
+### Databases
+- SQL
